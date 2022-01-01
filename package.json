@@ -1,0 +1,28 @@
+{
+  "name": "mdl",
+  "version": "1.16.2",
+  "description": "",
+  "main": "main/index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzze/mdl.git"
+  },
+  "author": "VZZE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzze/mdl/issues"
+  },
+  "homepage": "https://github.com/vzze/mdl#readme",
+  "dependencies": {
+    "@top-gg/sdk": "^3.0.9",
+    "bufferutil": "^4.0.3",
+    "canvas": "^2.6.1",
+    "discord.js-light": "^3.5.0",
+    "kurasuta": "^2.2.0",
+    "mongoose": "^5.11.12",
+    "utf-8-validate": "^5.0.4"
+  }
+}
